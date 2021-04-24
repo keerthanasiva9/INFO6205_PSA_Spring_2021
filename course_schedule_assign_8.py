@@ -33,5 +33,5 @@ if __name__ == '__main__':
     numCourses = 2
     prerequisites = [[1, 0]]
     print("The total number of courses to take is :",numCourses)
-    print("The prerequisite is :", prerequisites)
+    print("The prerequisites is :", prerequisites)
     print("Output:",course_schedule(numCourses,prerequisites))
